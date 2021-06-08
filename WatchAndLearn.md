@@ -12,6 +12,17 @@ This is a collection of presentations about programming, mostly C++
 | CppCon 2014 | Herb Sutter |  Back to the Basics! Essentials of Modern C++ Style | <https://www.youtube.com/watch?v=xnqTKD8uD64>
 | C++Now 2019 | Conor Hoekstra | Algorithm Intuition | <https://www.youtube.com/watch?v=48gV1SNm3WA>
 
+## Algorithms
+
+|Event|Presenter| Title | Link | Comment |
+|-----|-------|-------|------|---------|
+| CppCon 2015 | Michael VanLoon  | STL Algorithms in Action | <https://www.youtube.com/watch?v=eidEEmGLQcU>
+| CppCon 2016 | Marshall Clow    | STL Algorithms - why you should use them, and how to write your own | <https://www.youtube.com/watch?v=h4Jl1fk3MkQ>
+| CppCon 2017 | Nicholas Ormrod  | Fantastic Algorithms and Where To Find Them | <https://www.youtube.com/watch?v=YA-nB2wjVcI>
+| CppCon 2018 | Jonathan Boccara | 105 STL Algorithms in Less Than an Hour | <https://www.youtube.com/watch?v=2olsGf6JIkU> | "It's not just for_each" 
+| CppCon 2019 | Conor Hoekstra   | Algorithm Intuition (part 1 of 2) | <https://www.youtube.com/watch?v=pUEnO6SvAMo>
+| CppCon 2019 | Conor Hoekstra   | Algorithm Intuition (part 2 of 2) | <https://www.youtube.com/watch?v=sEvYmb3eKsw>
+
 ## Spreading the word
 
 |Event|Presenter| Title | Link | Comment |
@@ -77,6 +88,7 @@ Implementing the deceptively simple  "midpoint" is quite tricky - which is why s
 |Event|Presenter| Title | Link | Comment |
 |-----|-------|-------|------|---------|
 |CppCon 2016 | Howard Hinnant | A `<chrono>` tutorial" | <https://www.youtube.com/watch?v=P32hvk8b13M> |
+|            | Stephan T Lavavej | rand() considered harmful |https://www.youtube.com/watch?v=0Ez-KqDTVXg | "Say you have a problem, so you use floating point. Now you have 2.000001 problems"
 |CppCon 2016 | Walter E. Brown| What C++ Programmers Need to Know about Header `<random>`" | <https://www.youtube.com/watch?v=6DPkyvkMkk8> |
 |CppCon 2016 | Cheinan Marks | I Just Wanted a Random Integer! | <https://www.youtube.com/watch?v=4_QO1nm7uJs> |
 
@@ -149,6 +161,8 @@ Another quote:
 And another:
 > [U.S. National Laboratory] was the first place I ever ran into people who talked about CPU-months.
 
+
+
 ## Kate Gregory
 
 |Event|Presenter| Title | Link | Comment |
@@ -172,6 +186,8 @@ Matt Godbolt is the creator of the Compiler Explorer (a.k.a. godbolt.org), an in
 | CppCon 2017 | Matt Godbolt | What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid" | <https://www.youtube.com/watch?v=bSkpMdDe4g4>
 | CppCon 2018 | Matt Godbolt | The Bits Between the Bits: How We Get to main() | <https://www.youtube.com/watch?v=dOfucXtyEsU>
 | CppCon 2019 | Matt Godbolt | Compiler Explorer: Behind The Scenes | <https://www.youtube.com/watch?v=kIoZDUd5DKw> | Disclaimer: not much C++
+| Avast Event 2018 | Matt Godbolt | Why C++ Isn’t Dead | <https://www.youtube.com/watch?v=1uLTspBEtRE>
+
 
 ## First links
 
@@ -189,6 +205,7 @@ Matt Godbolt is the creator of the Compiler Explorer (a.k.a. godbolt.org), an in
 | CppCon 2017 | Tony Van Eerd | Postmodern C++ | <https://www.youtube.com/watch?v=QTLn3goa3A8> | (In the style of [Dr. Seuss](https://en.wikipedia.org/wiki/Dr._Seuss))
 | CppCon 2018 | Timur Doumler | Can I has grammar? | <https://www.youtube.com/watch?v=tsG95Y-C14k> | Some of the dark corners of the C++ grammar; that C++ compiler writers must be aware of|
 | CppCon 2018 | Phil Nash | You're not as smart as you think you are | <https://www.youtube.com/watch?v=fbkfH0IZW8g> |
+| CppCon 2020 | Tony Van Eerd | Songs of my People | https://www.youtube.com/watch?v=MhQe66nuMO0 | 
 
 ## For historical interest
 
