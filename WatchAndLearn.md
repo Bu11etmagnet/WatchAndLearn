@@ -111,6 +111,15 @@ Implementing the deceptively simple  "midpoint" is quite tricky - which is why s
 | CppCon 2018 | Arthur O'Dwyer | Concepts As She Is Spoke | <https://www.youtube.com/watch?v=CXn02MPkn8Y> |
 | CppCon 2019 | Saar Raz | How to Implement Your First Compiler Feature: The Story of Concepts in Clang | <https://www.youtube.com/watch?v=Y1o4rc9P1FQ> | Saar Raz implemented Concepts for Clang and lived to tell the tale |
 
+## Ranges (C++20)
+
+|Event|Presenter| Title | Link | Comment |
+|-----|-------|-------|------|---------|
+| CppCon 2015 | Eric Niebler | Ranges for the Standard Library | <https://www.youtube.com/watch?v=mFUXNMfaciE> |
+| CppCon 2019 | Jeff Garland | From STL to Ranges: Using Ranges Effectively | <https://www.youtube.com/watch?v=vJ290qlAbbw> |
+| CppCon 2019 | Tristan Brindle | An Overview of Standard Ranges | <https://www.youtube.com/watch?v=SYLgG7Q5Zws> |
+| CppCon 2020 | C++20 Ranges in Practice | Tristan Brindle | <https://www.youtube.com/watch?v=d_E-VLyUnzc> |
+
 ## "Not Yet C++"
 
 No-holds-barred experiments with the language.
