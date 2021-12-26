@@ -6,7 +6,7 @@ This is a collection of presentations about programming, mostly C++
 
 |Event|Presenter| Title | Link | Comment |
 |-----|-------|-------|------|---------|
-| C++ And Beyond 2012 | Herb Sutter | You don't know `_____` and `_______` |<https://channel9.msdn.com/posts/C-and-Beyond-2012-Herb-Sutter-You-dont-know-blank-and-blank> | C++11 fundamentally changes the meaning of two keywords.
+| C++ And Beyond 2012 | Herb Sutter | You don't know `_____` and `_______` |~~<https://channel9.msdn.com/posts/C-and-Beyond-2012-Herb-Sutter-You-dont-know-blank-and-blank>~~ </br> <https://web.archive.org/web/20170119232617/https://channel9.msdn.com/posts/C-and-Beyond-2012-Herb-Sutter-You-dont-know-blank-and-blank>| C++11 fundamentally changes the meaning of two keywords.
 | Bloomberg | Howard Hinnant | Everything You Ever Wanted To Know About Move Semantics | <https://www.youtube.com/watch?v=vLinb2fgkHk> |
 | Going Native 2013   | Sean Parent | C++ Seasoning | <https://www.youtube.com/watch?v=W2tWOdzgXHA> a.k.a.  "This is obviously a `rotate()`" |
 | CppCon 2014 | Herb Sutter |  Back to the Basics! Essentials of Modern C++ Style | <https://www.youtube.com/watch?v=xnqTKD8uD64>
@@ -118,7 +118,7 @@ and a member of the C++ standardization committee.
 |Event|Presenter| Title | Link | Comment |
 |-----|-------|-------|------|---------|
 | 2009 | Stephan T Lavavej | Everything you ever wanted to know about nullptr | <https://channel9.msdn.com/shows/Going+Deep/Stephan-T-Lavavej-Everything-you-ever-wanted-to-know-about-nullptr/> |
-| GoingNative 2013 | Stephan T Lavavej | Don't Help The Compiler | <https://www.youtube.com/watch?v=PbE1UmjJt1E> | The compiler know more about C++ than you do. Let it do its job |
+| GoingNative 2013 | Stephan T Lavavej | Don't Help The Compiler | <https://www.youtube.com/watch?v=PbE1UmjJt1E> | The compiler knows more about C++ than you do. Let it do its job |
 | CppCon 2014 | Stephan T Lavavej | STL Features And Implementation Techniques | <https://www.youtube.com/watch?v=dTeKf5Oek2c> | Select C++11/14 features and how to use them |
 
 ## Scott Meyers
@@ -158,6 +158,11 @@ And another:
 | CppCon 2018 | Kate Gregory | What Do We Mean When We Say Nothing At All | <https://www.youtube.com/watch?v=kYVxGyido9g>
 | CppCon 2019 | Kate Gregory | Naming Is Hard: Let's Do Better | <https://www.youtube.com/watch?v=MBRoCdtZOYg>
 
+## How to sell change
+
+|Event|Presenter| Title | Link | Comment |
+|-----|-------|-------|------|---------|
+| C++ And Beyond 2012 | Herb Sutter, Scott Meyers, Andrei Alexandrescu | Convincing your Colleagues | https://web.archive.org/web/20160922232136/https://channel9.msdn.com/posts/C-and-Beyond-2012-Panel-Convincing-your-Colleagues/ | 
 ## Matt Godbolt
 
 Matt Godbolt is the creator of the Compiler Explorer (a.k.a. godbolt.org), an interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
