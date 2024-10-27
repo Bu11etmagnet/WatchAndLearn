@@ -50,6 +50,7 @@ This is a collection of presentations about programming, mostly C++
 |Event|Presenter| Title | Link | Comment |
 |-----|-------|-------|------|---------|
 |CppCon 2015 | T. Winters & H. Wright | All Your Tests are Terrible... | <https://www.youtube.com/watch?v=u5senBJUkPc> |
+| Meeting C++ 2023 | Phil Nash | Rewiring your brain with test driven thinking in C++ | <https://www.youtube.com/watch?v=Hx-1Wtvhvgw>
 
 ## Library design
 
@@ -84,6 +85,8 @@ Implementing the deceptively simple  "midpoint" is quite tricky - which is why s
 | code::dive conference 2015 | Andrei Alexandrescu | Writing Fast Code II |<https://www.youtube.com/watch?v=9tvbz8CSI8M> | fun part from 6:45
 | CppCon 2017 | Carl Cook | "When a Microsecond Is an Eternity: High Performance Trading Systems in C++" | <https://www.youtube.com/watch?v=NH1Tta7purM>| (some of the perversions we make in the name of performance)
 | | Admiral Grace Hopper | What is a nanosecond ? | <https://www.youtube.com/watch?v=EJBvtXq4hQA>
+| ADC22 | Dave Rowland | Optimising a Real-Time Audio Processing Library | https://www.youtube.com/watch?v=FpymA7NLNDs
+| C++Online 2024 | Dave Rowland | Optimising a High Performance Audio C++ Library: Lessons Learned | https://www.youtube.com/watch?v=c_cXuL_L0Gg
 
 ## Low latency
 
