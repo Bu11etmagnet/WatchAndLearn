@@ -57,12 +57,14 @@ This is a collection of presentations about programming, mostly C++
 |-----|-------|-------|------|---------|
 | CppCon 2017 | Matt Kulukundis | Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step | <https://www.youtube.com/watch?v=ncHmEUmJZf4> |
 | C++Now 2018 | Malte Skarupke | You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance | <https://www.youtube.com/watch?v=M2fKMP47slQ> |
+| CppCon 2022 | Eduardo Madrid, Scott Bruce | Implementing Understandable World Class Hash Tables in C++ | https://www.youtube.com/watch?v=IMnbytvHCjM |
+| CppNow 2022 | Eduardo Madrid | Rehashing Hash Tables And Associative Containers | https://www.youtube.com/watch?v=B4VxpvFX9YY |
 
 ### Possibly the most awesome C++ library, ever
 
 |Event|Presenter| Title | Link | Comment |
 |-----|-------|-------|------|---------|
-| CppCon 2019 | Hana Dusíková | Compile-time Regular Expressions | <https://www.youtube.com/watch?v=QM3W36COnE4>
+| CppCon 2019 | Hana Dusíková | Compile-time Regular Expressions | <https://www.youtube.com/watch?v=QM3W36COnE4> | 
 
 Using the C++ compiler to parse a regular expression, and create a Finite State Machine which checks if the regex matches a string.
 
@@ -82,6 +84,13 @@ Implementing the deceptively simple  "midpoint" is quite tricky - which is why s
 | code::dive conference 2015 | Andrei Alexandrescu | Writing Fast Code II |<https://www.youtube.com/watch?v=9tvbz8CSI8M> | fun part from 6:45
 | CppCon 2017 | Carl Cook | "When a Microsecond Is an Eternity: High Performance Trading Systems in C++" | <https://www.youtube.com/watch?v=NH1Tta7purM>| (some of the perversions we make in the name of performance)
 | | Admiral Grace Hopper | What is a nanosecond ? | <https://www.youtube.com/watch?v=EJBvtXq4hQA>
+
+## Low latency
+
+|Event|Presenter| Title | Link | Comment |
+|-----|-------|-------|------|---------|
+| MUC++ | Timur Doumler | What is Low Latency C++? | https://www.youtube.com/watch?v=NrrG2TYF1dM | - |
+| Meeting C++ 2022 | David Gross | Trading at light speed: designing low latency systems in C++ | https://www.youtube.com/watch?v=8uAW5FQtcvE | - |
 
 ## Using the standard
 
