@@ -8,7 +8,9 @@ This is a collection of presentations about programming, mostly C++
 |-----|-------|-------|------|---------|
 | C++ And Beyond 2012 | Herb Sutter | You don't know `_____` and `_______` |~~<https://channel9.msdn.com/posts/C-and-Beyond-2012-Herb-Sutter-You-dont-know-blank-and-blank>~~ </br> <https://web.archive.org/web/20170119232617/https://channel9.msdn.com/posts/C-and-Beyond-2012-Herb-Sutter-You-dont-know-blank-and-blank>| C++11 fundamentally changes the meaning of two keywords. |
 | Bloomberg | Howard Hinnant | Everything You Ever Wanted To Know About Move Semantics | <https://www.youtube.com/watch?v=vLinb2fgkHk> ||
+| CppCon 2024 | John Kalb | Moved-from objects in C++ | <https://www.youtube.com/watch?v=FUsQPIoYoRM> | What moved-from objects are and how we should think about them |
 | Going Native 2013   | Sean Parent | C++ Seasoning | <https://www.youtube.com/watch?v=W2tWOdzgXHA> | a.k.a.  "This is obviously a `rotate()`" |
+| A9 | Sean Parent | Programming Conversations Lecture 5 part 1 | <https://www.youtube.com/watch?v=IzNtM038JuI> | An expanded version of the first part of "C++ Seasoning" |
 | CppCon 2014 | Herb Sutter |  Back to the Basics! Essentials of Modern C++ Style | <https://www.youtube.com/watch?v=xnqTKD8uD64> ||
 | C++Now 2019 | Conor Hoekstra | Algorithm Intuition | <https://www.youtube.com/watch?v=48gV1SNm3WA> ||
 
