@@ -188,6 +188,7 @@ And another:
 | ----- | ------- | ------- | ------ | --------- |
 | CppCon 2015 | Kate Gregory | Stop Teaching C | <https://www.youtube.com/watch?v=YnWhqhNdYyk> | |
 | MeetingC++ 2017 | Kate Gregory | It's Complicated | <https://www.youtube.com/watch?v=tTexD26jIN4> | |
+| CppCon 2017 | Kate Gregory | 10 Core Guidelines You Need to Start Using Now (a.k.a. Do not run with scissors) | <https://youtu.be/XkDEzfpdcSg> | Containing the beautiful quote: [with an enum class you can get it to an int if you want by `static_cast`ing, which is the "It is my foot, and I'm pointing this gun here on purpose" operator](https://youtu.be/XkDEzfpdcSg?t=2374) |
 | CppCon 2018 | Kate Gregory | What Do We Mean When We Say Nothing At All | <https://www.youtube.com/watch?v=kYVxGyido9g> | |
 | CppCon 2019 | Kate Gregory | Naming Is Hard: Let's Do Better | <https://www.youtube.com/watch?v=MBRoCdtZOYg> | |
 
